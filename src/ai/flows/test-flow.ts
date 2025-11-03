@@ -1,4 +1,4 @@
-import { defineFlow } from 'genkit';
+import { defineFlow } from '@genkit-ai/core';
 import { z } from 'zod';
 
 export const testFlow = defineFlow(
